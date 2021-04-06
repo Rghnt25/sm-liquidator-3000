@@ -1,5 +1,6 @@
 # sm-liquidator-3000
 Safemoon Liquidator Bot
+This isn't robinhood, people deserve to be able to sell.
 
 ## Notes
 This is a command line bot that submits market sell orders for 10million safemoon to Bitmart every minute. 
