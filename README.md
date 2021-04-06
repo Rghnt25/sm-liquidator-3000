@@ -13,7 +13,7 @@ You will need your api_key, secret_key, and memo.
 ## How to Install
 ```
 - Install python3
-- Go to command line, install dotenv with `pip3 install dotenv` for linux and mac users,
+- Go to command line, install dotenv with `pip3 install dotenv` for linux and mac users,`python -m pip install dotenv` for windows users
 - Create a file called `.env` in the same directory as `main.py`
 ```
 
