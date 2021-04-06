@@ -1,5 +1,6 @@
 # sm-liquidator-3000
 Safemoon Liquidator Bot
+
 This isn't robinhood, people deserve to be able to sell.
 
 ## Notes
