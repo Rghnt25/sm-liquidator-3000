@@ -30,3 +30,8 @@ Keep the quotes.
 ```
 python3 main.py
 ```
+
+## To stop
+```
+ctrl-c
+```
